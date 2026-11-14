@@ -1,8 +1,3 @@
-## Hi, I'm Pradnyesh
-
-I build software and machine learning and keep learning by making projects.
----------------
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradness&theme=github_dark" />
 </div>
