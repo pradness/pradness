@@ -39,4 +39,8 @@ I build software and machine learning and keep learning by making projects.
 
 
 ---------------
+<div align="center">
+
 [![Now Playing](https://last-fm-card.vercel.app/?user=pradness)](https://last.fm/user/pradness)
+
+</div>
