@@ -11,6 +11,4 @@ I build software and machine learning and keep learning by making projects.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradness&theme=material-palenight&hide_border=true" alt="Activity graph" />
 </p>
 
-### Connect
-
-- GitHub: [@pradness](https://github.com/pradness)
+[![Now Playing](https://last-fm-card.vercel.app/?user=pradness)](https://last.fm/user/pradness)
